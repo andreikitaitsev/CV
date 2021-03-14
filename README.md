@@ -7,7 +7,7 @@
   * German (B1)
 * Current position: 
   * Master Student at Carl von Ossietzky Universität Oldenburg, Germany
-  * Visiting student at Freie Universität Berlin, Germany [link](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/master_students/index.html)
+  * Visiting student at Freie Universität Berlin, Germany [link](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/master_students/andrei/index.html)
 
 # Technical skills
 
