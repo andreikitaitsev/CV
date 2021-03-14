@@ -9,30 +9,30 @@
   * Master Student at Carl von Ossietzky Universität Oldenburg, Germany
   * Visiting student at Freie Universität Berlin, Germany [link](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/master_students/index.html)
 # Technical skills
-## Programming languages:
+### Programming languages:
 * Python
 * Matlab
 * R
 * Shell (bash)
 * awk, basics
-## Machine learning
+### Machine learning
 * sklearn
 * Linear Classification (LDA, SVD, Logistic regression)
 * Riemannian classification (MDM)
-## Deep learning
+### Deep learning
 * PyTorch
 * TensorFlow 2, basics
 * Coursera certificates
   * [Neural Networks and Deep Learning, DeepLearning.AI](https://coursera.org/share/8982b814c0d0b319bc6a8c2168c4b068)
   * [Improving Deep Neural Networks, DeepLearning.AI](https://coursera.org/share/8ee44829272aa4729cdde0de62b0ed959)
-## Digital signal processing
+### Digital signal processing
 * Filtering (FIR, IIR)
 * [Time-series analysis](https://github.com/andreikitaitsev/decoding_model_bids_fmri/blob/master/audio2bidsstim/wav_files_to_bids_tsv.py) (wavelet analysis, Hilbert transform, Fourier transform)
 * Linear change of basis algorithms (PCA, ICA, CCA, Hyperalignment, Shared response modelling, Searchlight)
-## Statistics
+### Statistics
 * Bayesian statistics, GLM, hierarchical linear models, parametric and non-parametric significance testing
 * Factor analysis, Structural Equations Modelling, Cluster anaylsis
-## Neuroimaging
+### Neuroimaging
 * EEG analysis (Matlaab: EEGLab, Python: MNE)
 * fMRI analysis (Python, Nilearn, Nibabel)
 
