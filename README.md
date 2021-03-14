@@ -54,7 +54,7 @@
 # Projects
 * *Effects of target stimulus features on visual evoked potentials in P300 BCI paradigm*, Bachelor Thesis, Lomonosov Moscow State University, Russia, [link](https://github.com/andreikitaitsev/P300_BCI.git). 
 * *Decoding model BIDS fMRI*, Practial project, Carl von Ossietzky Universität Oldenburg, Germany, [link](https://github.com/andreikitaitsev/decoding_model_bids_fmri.git).
-*  *Intersubject generalization in encoding models exploiting deep neural network*, Master Thesis (in progress), Freie Universität Berlin, Germany, [link](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/master_students/index.html).
+*  *Intersubject generalization in encoding models exploiting deep neural network*, Master Thesis (in progress), Freie Universität Berlin, Germany, [link](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/master_students/andrei/index.html).
 
 # Education
 * **Master of science in Neurocognitive Psychology**, Carl von Ossietzky Universität Oldenburg , Germany, *2019 - present*
