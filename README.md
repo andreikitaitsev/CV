@@ -46,7 +46,7 @@
 # Experience
 * *Research Assistant* at [Applied Neurocognitive Psychology Laboratory](https://uol.de/angewandte-neurokognitive-psychologie), Carl von Ossietzky Universität Oldenburg, Germany, *2020 - present*
   * Simulation of magnetic field for estimation of noise in Magnetoencephalography, python.
-* *Internship* at [Neuropsychology LAb, Carl von Ossietzky Universität Oldenburg](https://uol.de/neuropsychologie), *2020*
+* *Internship* at [Neuropsychology Lab, Carl von Ossietzky Universität Oldenburg](https://uol.de/neuropsychologie), *2020*
   * Using change of basis data representation methods (ICA, ASR) to estimate artifacts in outdoors EEG recording (matlab).
 * *Internship* at the [Laboratory for Neurophysiology and Neuro-Computer Interfaces, Lomonosov Moscow State University, Russia](http://brain.bio.msu.ru/), *2020* 
   * P300 Brain-Computer interfaces    
