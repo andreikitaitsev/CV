@@ -43,6 +43,10 @@
 * EEG analysis (Matlaab: EEGLab, Python: MNE)
 * fMRI analysis (Python, Nilearn, Nibabel)
 
+### Parallel computing, High Performance Computing
+* SLURM, basics
+* Python parallelization tools
+
 # Experience
 * *Research Assistant* at [Applied Neurocognitive Psychology Laboratory](https://uol.de/angewandte-neurokognitive-psychologie), Carl von Ossietzky Universität Oldenburg, Germany, *2020 - present*
   * Simulation of magnetic field for estimation of noise in Magnetoencephalography, python.
