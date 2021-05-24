@@ -28,7 +28,7 @@
 * TensorFlow 2, basics
 * Coursera certificates
   * [Neural Networks and Deep Learning, DeepLearning.AI](https://coursera.org/share/8982b814c0d0b319bc6a8c2168c4b068)
-  * [Improving Deep Neural Networks, DeepLearning.AI](https://coursera.org/share/8ee44829272aa4729cdde0de62b0ed959)
+  * [Improving Deep Neural Networks, DeepLearning.AI](https://coursera.org/share/8ee44829272aa4729cdde0de62b0ed95)
 
 ### Digital signal processing
 * Filtering (FIR, IIR)
