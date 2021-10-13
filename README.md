@@ -61,7 +61,7 @@
 *  *Intersubject generalization in encoding models exploiting deep neural network*, Master Thesis (in progress), Freie Universität Berlin, Germany, [link](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/master_students/andrei/index.html).
 
 # Education
-* **Master of science in Neurocognitive Psychology**, Carl von Ossietzky Universität Oldenburg , Germany, *2019 - present*
+* **Master of science in Neurocognitive Psychology**, Carl von Ossietzky Universität Oldenburg , Germany, *2019 - 2021*
 * **Bachlor of science in Biology**, Lomonosov Moscow State University, Russia, *2015-2018*
 
 # Publications
